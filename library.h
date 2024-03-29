@@ -1,0 +1,6 @@
+#ifndef GNU_R_Q_MANIFOLDS_LIBRARY_H
+#define GNU_R_Q_MANIFOLDS_LIBRARY_H
+
+void hello();
+
+#endif //GNU_R_Q_MANIFOLDS_LIBRARY_H
